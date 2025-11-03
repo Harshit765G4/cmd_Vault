@@ -1,0 +1,78 @@
+==========================
+📂 LINUX COMMAND VAULT
+==========================
+
+
+📁 FILE & DIRECTORY COMMANDS
+----------------------------
+ls        - List files and directories
+pwd       - Print working directory
+cd        - Change directory
+mkdir     - Create new directories
+mv        - Move or rename files
+cp        - Copy files or directories
+rm        - Delete files or directories
+touch     - Create blank/empty files
+ln        - Create symbolic links (shortcuts)
+cat       - Display file contents on terminal
+clear     - Clear the terminal screen
+echo      - Print text or variables on terminal
+
+
+📘 INFORMATION & HELP COMMANDS
+------------------------------
+man       - Display manual pages for commands
+uname     - Show basic information about the OS
+whoami    - Display the active username
+whatis    - Describe what a command does
+whereis   - Locate binary, source, and manual page files of a command
+
+
+🧩 FILE ARCHIVING & COMPRESSION
+-------------------------------
+tar       - Extract and compress archive files
+zip       - Compress files into a zip archive
+unzip     - Extract files from a zip archive
+
+
+🔍 SEARCH & VIEW COMMANDS
+-------------------------
+grep      - Search for specific strings within output or files
+head      - Show the first few lines of a file
+tail      - Show the last few lines of a file
+
+
+⚙️ SYSTEM & PROCESS MANAGEMENT
+------------------------------
+service   - Start or stop services
+ps        - Display currently running processes
+top       - View active processes live with resource usage
+kill      - Terminate a process by ID
+killall   - Terminate all processes with a given name
+df        - Display disk space usage and filesystem information
+chmod     - Change file or directory permissions
+export    - Export environment variables
+alias     - Create custom command shortcuts
+sudo      - Execute commands with superuser privileges
+
+
+🌐 NETWORKING COMMANDS
+----------------------
+ifconfig  - Display network interfaces and IP addresses
+wget      - Download files directly from the internet
+ssh       - Connect securely to remote servers (Secure Shell)
+ufw       - Manage the system firewall
+
+
+📦 PACKAGE MANAGEMENT
+---------------------
+apt       - Package manager (Debian/Ubuntu based systems)
+yum       - Package manager (RHEL/CentOS based systems)
+dnf       - Modern replacement for yum
+pacman    - Package manager (Arch-based systems)
+rpm       - Red Hat Package Manager
+
+
+==========================
+📘 END OF FILE
+==========================
